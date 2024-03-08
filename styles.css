@@ -1,0 +1,18 @@
+header {
+ border-width: 5px
+}
+.nav-list {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 1rem;
+
+}
+body {
+min-height: 100vh;
+line-height: 1.6;
+}
+h1{
+margin-bottom: 1em;
+line-height: 1.1;
+}
